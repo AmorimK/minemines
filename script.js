@@ -21,7 +21,6 @@ function valor() {
 
     let value = document.querySelector("#qtdminas");
     value = value['value'];
-    /* console.log(value); */
 
     let cont = 0;
 
@@ -38,13 +37,10 @@ function valor() {
 
     }
 
-    /* console.log(tabuleiro) */
-
     cont = 1;
 
     for(let i of tabuleiro) {
 
-        /* console.log(i) */
 
         $("<img>")
             .attr("src",`images/stone.png`)
