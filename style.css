@@ -1,18 +1,17 @@
 body {
 
-background-image: url("images/background.jpg");
+background-image: url(/images/background.jpg);
 opacity: 100;
 
 }
 
-label {
+label{
 
-    box-shadow: -2px -4px 70px -1px rgba(0,0,0,0.71);
-    -webkit-box-shadow: -2px -4px 70px -1px rgba(0,0,0,0.71);
-    -moz-box-shadow: -2px -4px 70px -1px rgba(0,0,0,0.71);
-    margin-bottom: -4px;
-    
+  text-shadow: 2px 3px 3px rgba(0, 0, 0, 1);
+
+
 }
+
 
 img {
 
@@ -56,6 +55,11 @@ select{
   font-family: minecraft;
   text-align: center;
   font-size: 25px;
+
+  -webkit-box-shadow: 2px 3px 3px rgb(0, 0, 0);
+    -moz-box-shadow: 2px 3px 3px rgb(0, 0, 0);
+    box-shadow: 2px 3px 3px rgb(0, 0, 0);
+    display:inline-block;
   
 
 }
@@ -64,9 +68,5 @@ select{
   font-family: minecraft;
   font-style:normal;
   font-weight: normal;
-  src: url("font/MinecraftTen-VGORe.ttf");
+  src: url(font/MinecraftTen-VGORe.ttf);
 }
-
-
-
-
