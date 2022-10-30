@@ -1,0 +1,63 @@
+body {
+
+background-image: url(/images/background.jpg);
+opacity: 100;
+
+}
+
+img {
+
+    width:100px;
+    padding:5px;
+    box-shadow: -2px -4px 70px -1px rgba(0,0,0,0.71);
+    -webkit-box-shadow: -2px -4px 70px -1px rgba(0,0,0,0.71);
+    -moz-box-shadow: -2px -4px 70px -1px rgba(0,0,0,0.71);
+    margin-bottom: -4px;
+    
+    transition-property: all;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+img:hover{
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+
+#pecas {
+    text-align:center;
+
+}
+
+#options {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align:center;
+    font-family: minecraft;
+    color: white;
+    font-size: 40px;
+    
+}
+
+select{
+  margin-top:20px;
+  width:50px;
+  height:35px;
+  font-family: minecraft;
+  text-align: center;
+  font-size: 25px;
+  
+
+}
+
+@font-face {
+  font-family: minecraft;
+  font-style:normal;
+  font-weight: normal;
+  src: url(font/MinecraftTen-VGORe.ttf);
+}
+
+
+
+
