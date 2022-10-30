@@ -38,7 +38,7 @@ function valor() {
 
     }
 
-    console.log(tabuleiro)
+    /* console.log(tabuleiro) */
 
     cont = 1;
 
