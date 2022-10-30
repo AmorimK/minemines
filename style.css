@@ -1,6 +1,6 @@
 body {
 
-background-image: url(/images/background.jpg);
+background-image: url("/images/background.jpg");
 opacity: 100;
 
 }
@@ -68,5 +68,5 @@ select{
   font-family: minecraft;
   font-style:normal;
   font-weight: normal;
-  src: url(font/MinecraftTen-VGORe.ttf);
+  src: url("font/MinecraftTen-VGORe.ttf");
 }
