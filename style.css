@@ -5,6 +5,15 @@ opacity: 100;
 
 }
 
+label {
+
+    box-shadow: -2px -4px 70px -1px rgba(0,0,0,0.71);
+    -webkit-box-shadow: -2px -4px 70px -1px rgba(0,0,0,0.71);
+    -moz-box-shadow: -2px -4px 70px -1px rgba(0,0,0,0.71);
+    margin-bottom: -4px;
+    
+}
+
 img {
 
     width:100px;
