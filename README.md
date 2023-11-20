@@ -1,7 +1,16 @@
-# https://amorimk.github.io/minemines/
+# Mine Mines
+https://amorimk.github.io/minemines/
 
-Jogo de azar Mines com o tema Minecraft.
+# Sobre o projeto
 
-Este jogo foi desenvolvido para uma avaliação da disciplina Desenvolvimento Web.
+O **Mine Mines** é baseado no jogo de azar *Mines*, muito famoso em cassinos online, com o tema *Minecraft*. Este projeto foi desenvolvido para uma avaliação da disciplina **Desenvolvimento Web**.
 
+# Tecnologias utilizadas
+- JavaScript
+- jQuery
+- CSS
+- HTML
 
+# Autor
+
+- <a href="github.com/amorimk">Kauã Amorim</a>
