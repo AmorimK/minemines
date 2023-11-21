@@ -13,4 +13,4 @@ O **Mine Mines** é baseado no jogo de azar *Mines*, muito famoso em cassinos on
 
 # Autor
 
-- <a href="https://github.com/amorimk">Kauã Amorim</a>
+- <a href="https://www.github.com/amorimk">Kauã Amorim</a>
